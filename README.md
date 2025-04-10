@@ -89,7 +89,7 @@ Analytical thinking and storytelling through data
 
 Project Repository
 You can explore the full analysis and code here:
-GitHub Repository – Click Here ()
+GitHub Repository – Click Here ( https://github.com/ADARSH1805/warehouse-vs-retail-sales-analysis )
 
 Let’s Connect!
 If you found this project interesting or helpful, feel free to ⭐️ the repo, give feedback, or connect with me on LinkedIn!
